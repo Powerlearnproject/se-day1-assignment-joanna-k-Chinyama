@@ -62,5 +62,5 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 vague prompt -Make me a drawing
 improved prompt-generate a sunflower pencil drawing.
 The improved prompt is more effective as it is clear and specifically telling the  AI model what the drawing should be of and what it should look like, making it easy
-for the AI model to generate  desired outputs.
+for the AI model to generate  desired outputs. 
 
