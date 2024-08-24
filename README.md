@@ -52,7 +52,6 @@ Integration is a type of testing that focuses on verifying the interactions betw
 System testing is a type of testing that involves testing of the complete  and fully integrated software system to ensure it meets the specified requirements. its purpose is to validate end-to-end functionality of the software in an environment that closely mirrors the production setup. It is important in end-to-end validation ensuring that the entire system functions as intended from start to finish. Ensures requirement  verification as well as real-world simulation.
 Acceptance testing is the final stage of testing, where the software is tested from end-user perspective to determine if it ready for deployment. its purpose is to ensure that the software  meets business requirements and is acceptable to the user ,client or stakeholders .It is  importance as it ensures user satisfaction as well as  final verification which acts as the last check before the  software is released ,ensuring that all requirements have been met.
 
-
 #Part 2: Introduction to AI and Prompt Engineering.
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engneering is the process of designing imputs to effectively interact with AI models in order  to generate desired outputs.
