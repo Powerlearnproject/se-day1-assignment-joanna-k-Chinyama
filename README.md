@@ -60,7 +60,7 @@ prompt engineering is impportant as it ensures that AI models produce accurate a
 prompt engineering is important as it improves the responce quility of AI models,enhances efficiency and helps control  AI behaviour.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-vogue prompt -Make me a drawing
+vague prompt -Make me a drawing
 improved prompt-generate a sunflower pencil drawing.
 The improved prompt is more effective as it is clear and specifically telling the  AI model what the drawing should be of and what it should look like, making it easy
 for the AI model to generate  desired outputs.
